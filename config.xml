@@ -6,9 +6,9 @@
     xmlns:gap="http://phonegap.com/ns/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <name>TwApp</name>
+    <name>Flying Yoda</name>
     <description>
-        Twitter app.
+        Game app.
     </description>
     <author email="adapptalo@gmail.com" href="http://www.adapptalo.com">
         ADAPPTALO, Barcelona
